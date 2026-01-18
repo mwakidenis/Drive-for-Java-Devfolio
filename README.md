@@ -37,7 +37,6 @@ Frontend and Web developer
   </thead>
   <tbody>
     <tr>
-      td>
         <img src="https://komarev.com/ghpvc/?username=mwakidenis&color=0A0209&style=flat-square" alt="Profile Views"/>
       </td>
         <a href="https://github.com/mwakidenis">
