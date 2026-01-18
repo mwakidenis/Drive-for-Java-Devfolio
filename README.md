@@ -37,9 +37,9 @@ Frontend and Web developer
   </thead>
   <tbody>
     <tr>
-      <td>![Profile Views](https://komarev.com/ghpvc/?username=mwakidenis&color=0A0209&style=flat-square)
+      td>
+        <img src="https://komarev.com/ghpvc/?username=mwakidenis&color=0A0209&style=flat-square" alt="Profile Views"/>
       </td>
-      <td>
         <a href="https://github.com/mwakidenis">
           <img src="https://img.shields.io/github/followers/mwakidenis?label=Followers&style=social" alt="GitHub Followers"/>
         </a>
