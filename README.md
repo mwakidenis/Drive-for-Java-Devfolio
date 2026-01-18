@@ -37,8 +37,7 @@ Frontend and Web developer
   </thead>
   <tbody>
     <tr>
-      <td>
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=mwakidenis/mwakidenis&label=Total%20Visitors&labelColor=%23000&countColor=%230A0209&style=flat-square)
+      <td>![Profile Views](https://komarev.com/ghpvc/?username=mwakidenis&color=0A0209&style=flat-square)
       </td>
       <td>
         <a href="https://github.com/mwakidenis">
